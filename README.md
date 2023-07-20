@@ -1,5 +1,13 @@
 # Tavernari's Blog
 
+## About me
+
+I am Victor Carvalho Tavernari, a seasoned Mobile Engineer with a career that started in 2008 when I first began creating websites as a freelancer. This early immersion into the world of technology fueled my passion for development, leading me to make the significant decision to shift my focus from Business School to a career in development.
+
+My journey in the tech industry has been defined by diversity and continuous learning. I have honed my skills in iOS development, mastering both Swift and Objective-C, and have expanded my proficiency to include ReactNative and HTML5 GameDev. I've also cultivated foundational skills in Python and Kotlin for Android development. My experience spans across various architectures such as MVC, MVVM-C, VIP, and Clean, and I have become adept at using tools and technologies like Fastlane, Cocoapods, RxSwift, GraphQL, and Apollo.
+
+Beyond technical skills, my career has been enriched by engaging with innovative projects and learning from industry leaders. I've had the opportunity to work on unique projects that blend technology with other aspects of life, such as faith. I've also drawn inspiration from influential figures in the development world like Uncle Bob, Martin Follower, Joshua Kerievsky, Kent Beck, and Mauricio Aniche. Their teachings have been invaluable, inspiring me to share my knowledge through talks on topics like ReactNative, ChatBot using NLP, and TDD using Swift. As I continue on my path, I eagerly look forward to each new challenge and the chance to further expand my skills in the ever-evolving world of mobile engineering.
+
 ## Posts
 
 **23/03/2023** [Say Goodbye to Clunky String Searches with StringContainsOperators](/2023/03/23/Strings_Searches_Operations.md)
