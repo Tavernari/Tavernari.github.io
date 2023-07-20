@@ -1,3 +1,15 @@
+<script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'auto',
+                layout: google.translate.TranslateElement.InlineLayout.VERTICAL,
+                autoDisplay: true
+            }, 'google_translate_element');
+        }
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bungee Hairline&display=swap">
+
 # Tavernari's Blog
 
 👨‍💻 Hello! I'm Victor Carvalho Tavernari, an experienced Mobile Engineer who embarked on this journey back in 2008, when my curiosity led me to start creating websites. That early taste of the tech world inspired me to switch my focus from Business School to development. Since then, my career has been a fascinating journey of learning and growth. I've tackled various challenges, expanded my skillset, and contributed to unique projects that blend technology with aspects of life such as faith. Throughout my career, I've learned from industry leaders and shared my own knowledge with others. As I continue in this field, I eagerly anticipate each new opportunity to learn, grow, and contribute to the ever-evolving world of technology.
@@ -26,4 +38,10 @@ In my career, I've honed my skills in iOS (Swift/Objective-C) and React Native d
 
 ---
 
-See more posts on [Tavernari's Posts](posts.md) page.
+*You can see more posts on [Tavernari's Posts](posts.md) page.*
+
+## ✉️ Contact
+[LinkedIn Profile](https://www.linkedin.com/in/victorctavernari/)
+
+---
+© Victor Carvalho Tavernari - 2023

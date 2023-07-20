@@ -1,3 +1,15 @@
+<script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'auto',
+                layout: google.translate.TranslateElement.InlineLayout.VERTICAL,
+                autoDisplay: true
+            }, 'google_translate_element');
+        }
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bungee Hairline&display=swap">
+
 # 📓 Tavernari's Posts 
 
 📋 **23/03/2023** [Say Goodbye to Clunky String Searches with StringContainsOperators](/2023/03/23/Strings_Searches_Operations.md)

@@ -1,3 +1,15 @@
+<script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'auto',
+                layout: google.translate.TranslateElement.InlineLayout.VERTICAL,
+                autoDisplay: true
+            }, 'google_translate_element');
+        }
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bungee Hairline&display=swap">
+
 # Say Goodbye to Clunky String Searches with StringContainsOperators
 
 If you’ve ever needed to search for multiple substrings within a larger string in Swift, you know it can be a pain. Checking if a string contains one or more substrings often requires writing multiple lines of code, which can quickly become unwieldy and difficult to maintain. But what if there was a better way? That’s where `StringContainsOperators` comes in.
