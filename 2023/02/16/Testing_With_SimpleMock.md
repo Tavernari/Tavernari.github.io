@@ -10,7 +10,7 @@
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bungee Hairline&display=swap">
 
-# Streamline Your Testing with SimpleMock Swift: The Lightweight and Simple Mock Implementation You Need
+## Streamline Your Testing with SimpleMock Swift: The Lightweight and Simple Mock Implementation You Need
 
 Testing is an essential part of any software development project. However, testing can be time-consuming and complex, especially when it comes to mocking objects for unit tests. That’s where SimpleMock Swift comes in. It is a lightweight and simple mock implementation that can help you create your own mocks easily and quickly.
 
@@ -63,7 +63,7 @@ XCTAssertNoThrow(try self.serviceMock.verify())
 
 In this example, we are setting expectations for the load and save methods of the service mock object. We then call the methods and assert that the results are what we expect. Finally, we verify that all the expectations were met.
 
-## Conclusion
+### Conclusion
 
 In conclusion, SimpleMock is a lightweight and easy-to-use mock implementation that can help you create your own mocks easily and quickly. Whether you’re working on a small personal project or a large-scale application, SimpleMock Swift can streamline your testing process and help you achieve better code coverage.
 
