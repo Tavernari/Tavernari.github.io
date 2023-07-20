@@ -10,9 +10,9 @@
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bungee Hairline&display=swap">
 
-# Tavernari's Blog
+## 👨‍💻 About me
 
-👨‍💻 Hello! I'm Victor Carvalho Tavernari, an experienced Mobile Engineer who embarked on this journey back in 2008, when my curiosity led me to start creating websites. That early taste of the tech world inspired me to switch my focus from Business School to development. Since then, my career has been a fascinating journey of learning and growth. I've tackled various challenges, expanded my skillset, and contributed to unique projects that blend technology with aspects of life such as faith. Throughout my career, I've learned from industry leaders and shared my own knowledge with others. As I continue in this field, I eagerly anticipate each new opportunity to learn, grow, and contribute to the ever-evolving world of technology.
+Hello! I'm Victor Carvalho Tavernari, an experienced Mobile Engineer who embarked on this journey back in 2008, when my curiosity led me to start creating websites. That early taste of the tech world inspired me to switch my focus from Business School to development. Since then, my career has been a fascinating journey of learning and growth. I've tackled various challenges, expanded my skillset, and contributed to unique projects that blend technology with aspects of life such as faith. Throughout my career, I've learned from industry leaders and shared my own knowledge with others. As I continue in this field, I eagerly anticipate each new opportunity to learn, grow, and contribute to the ever-evolving world of technology.
 
 ### 🧰 Technical Expertise
 
