@@ -12,7 +12,7 @@
 
 ## 📓 Posts 
 
-📋 **23/03/2023** [Exploring Concurrency in Swift: Actors vs. Queues](/2023/11/07/Actors_vs_Queues.md)
+📋 **07/11/2023** [Exploring Concurrency in Swift: Actors vs. Queues](/2023/11/07/Actors_vs_Queues.md)
 
 *Delve into the essential principles of concurrency in Swift with our in-depth comparison of actors and queues. This article illuminates the distinct roles these two strategies play in managing shared resources and preventing data races. Discover the unique advantages of employing actors for safeguarding data integrity and queues for task management. Tailored for developers aiming to enhance their proficiency in Swift's concurrency mechanisms, the post offers crucial insights to help you judiciously choose the appropriate tool for your coding challenges.*
 
