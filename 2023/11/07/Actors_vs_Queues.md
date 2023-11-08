@@ -19,7 +19,7 @@ An *actor* in Swift serves as a guardian of its mutable state, ensuring single-t
 
 ### The Significance of Actors in Swift Concurrency
 
-*Actors* are not just a new feature; they're a paradigm shift. By locking down state access and integrating with Swift's `async/await``, they reduce the mental gymnastics required to maintain thread safety. They represent a move towards more predictable and maintainable concurrency in Swift.
+*Actors* are not just a new feature; they're a paradigm shift. By locking down state access and integrating with Swift's *async/await*, they reduce the mental gymnastics required to maintain thread safety. They represent a move towards more predictable and maintainable concurrency in Swift.
 
 ## Understanding the Limits of Actors in Preventing Data Races
 
@@ -43,7 +43,7 @@ The crux of the matter is that actors shift the nature of race conditions. They 
 ## Benchmarking
 
 ### Setup
-To put this to the test, I created a scenario with `actors` and `DispatchQueue`, timing their operations involving a mock temperature logger.
+To put this to the test, I created a scenario with *actors* and *DispatchQueue*, timing their operations involving a mock temperature logger.
 
 [Actor Playground Implementation](ActorTemperatureLogger.playground/Contents.swift)
 
