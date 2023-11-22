@@ -18,7 +18,13 @@ Hello! I'm Victor Carvalho Tavernari, an experienced Mobile Engineer who embarke
 
 In my career, I've honed my skills in iOS (Swift/Objective-C) and React Native development, experimented with game development in HTML5 and Unity3D, and built robust backend services using Node.js and Firebase tools like Functions, Firestore, Messaging, and Authentication. My explorations also span Python scripting, Android development in Kotlin, and blockchain applications with Solidity and web3.
 
-## [📓](posts.md) Posts 
+## [📓](posts.md) Posts
+
+📋 **22/11/2023** [Swift 6: Embarking on a New Adventure in App Development](/2023/11/22/swift_6.md)
+
+*Explore the future of app development with our latest insights on Swift 6. This groundbreaking update promises to revolutionize the Swift programming landscape, offering enhanced capabilities, improved user experience, and expanded reach beyond Apple's ecosystem. Perfect for both seasoned developers and newcomers, Swift 6 marks a significant step in making coding more accessible and enjoyable. Stay ahead of the curve with our in-depth look at what Swift 6 has in store.*
+
+---
 
 📋 **07/11/2023** [Exploring Concurrency in Swift: Actors vs. Queues](/2023/11/07/Actors_vs_Queues.md)
 

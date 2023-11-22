@@ -12,6 +12,12 @@
 
 ## 📓 Posts 
 
+📋 **22/11/2023** [Swift 6: Embarking on a New Adventure in App Development](/2023/11/22/swift_6.md)
+
+*Explore the future of app development with our latest insights on Swift 6. This groundbreaking update promises to revolutionize the Swift programming landscape, offering enhanced capabilities, improved user experience, and expanded reach beyond Apple's ecosystem. Perfect for both seasoned developers and newcomers, Swift 6 marks a significant step in making coding more accessible and enjoyable. Stay ahead of the curve with our in-depth look at what Swift 6 has in store.*
+
+---
+
 📋 **07/11/2023** [Exploring Concurrency in Swift: Actors vs. Queues](/2023/11/07/Actors_vs_Queues.md)
 
 *Delve into the essential principles of concurrency in Swift with our in-depth comparison of actors and queues. This article illuminates the distinct roles these two strategies play in managing shared resources and preventing data races. Discover the unique advantages of employing actors for safeguarding data integrity and queues for task management. Tailored for developers aiming to enhance their proficiency in Swift's concurrency mechanisms, the post offers crucial insights to help you judiciously choose the appropriate tool for your coding challenges.*
