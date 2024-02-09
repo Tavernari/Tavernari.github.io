@@ -16,6 +16,8 @@
 
 Delve into the nuances of data storage performance across different Swift storage solutions with our comprehensive benchmark study on AppleTV HD and iPhone 12 Pro. This analysis sheds light on the efficiency of various storage methods, highlighting GRDB-based solutions' superiority for JSON data handling. Whether you're a seasoned Swift developer or just starting, understanding these performance benchmarks can significantly influence your app's responsiveness and user experience. Uncover the key to optimizing your Swift applications by choosing the right data storage method with our detailed examination.
 
+---
+
 📋 **22/11/2023** [Swift 6: Embarking on a New Adventure in App Development](/2023/11/22/swift_6.md)
 
 *Explore the future of app development with our latest insights on Swift 6. This groundbreaking update promises to revolutionize the Swift programming landscape, offering enhanced capabilities, improved user experience, and expanded reach beyond Apple's ecosystem. Perfect for both seasoned developers and newcomers, Swift 6 marks a significant step in making coding more accessible and enjoyable. Stay ahead of the curve with our in-depth look at what Swift 6 has in store.*
