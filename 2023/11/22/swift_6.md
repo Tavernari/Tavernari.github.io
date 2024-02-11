@@ -10,6 +10,10 @@
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bungee Hairline&display=swap">
 
+<div style="display: flex; justify-content: center;">
+  <img src="/icon.webp" style="height: 200px;" />
+</div>
+
 # Swift 6: Embarking on a New Adventure in App Development
 
 ![Logo](./Swift_logo_color.svg)

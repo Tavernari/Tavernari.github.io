@@ -10,11 +10,21 @@
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bungee Hairline&display=swap">
 
+<div style="display: flex; justify-content: center;">
+  <img src="./icon.webp" style="height: 200px;" />
+</div>
+
 ## 📓 Posts 
 
 📋 **09/02/2024** [Optimizing Data Storage in Swift: Insights from AppleTV HD and iPhone 12 Pro Benchmarks](/2024/02/09/Cache_Types_Benchmark.md)
 
 Delve into the nuances of data storage performance across different Swift storage solutions with our comprehensive benchmark study on AppleTV HD and iPhone 12 Pro. This analysis sheds light on the efficiency of various storage methods, highlighting GRDB-based solutions' superiority for JSON data handling. Whether you're a seasoned Swift developer or just starting, understanding these performance benchmarks can significantly influence your app's responsiveness and user experience. Uncover the key to optimizing your Swift applications by choosing the right data storage method with our detailed examination.
+
+---
+
+📋 **02/12/2023** [Advanced User Interface Design in Swift: A Comparative Study](/2024/02/11/Advanced_UI_Design_Swift.md)
+
+Explore the frontier of user interface design in Swift with our in-depth comparative study. This analysis goes beyond the basics, examining cutting-edge UI frameworks and design patterns across various Apple platforms, including the latest iPhone models and AppleTV. Discover how advanced UI techniques can enhance interactivity, improve user engagement, and elevate the overall design aesthetic of your Swift applications. Whether you're aiming to refine the user experience or integrate innovative UI elements, our study provides valuable insights and practical examples to guide your design journey.
 
 ---
 

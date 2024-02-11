@@ -10,6 +10,10 @@
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bungee Hairline&display=swap">
 
+<div style="display: flex; justify-content: center;">
+  <img src="./icon.webp" style="height: 200px;" />
+</div>
+
 ## Streamline Your Testing with SimpleMock Swift: The Lightweight and Simple Mock Implementation You Need
 
 Testing is an essential part of any software development project. However, testing can be time-consuming and complex, especially when it comes to mocking objects for unit tests. That’s where SimpleMock Swift comes in. It is a lightweight and simple mock implementation that can help you create your own mocks easily and quickly.

@@ -10,6 +10,10 @@
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bungee Hairline&display=swap">
 
+<div style="display: flex; justify-content: center;">
+  <img src="./icon.webp" style="height: 200px;" />
+</div>
+
 # Exploring Concurrency in Swift: Actors vs. Queues
 
 Concurrent programming in Swift has been a hot topic, especially since the introduction of *actors*. This new player in the concurrency game has sparked debates about its performance vis-à-vis the traditional *queues*. To get a clearer picture, I rolled up my sleeves and benchmarked these two approaches.

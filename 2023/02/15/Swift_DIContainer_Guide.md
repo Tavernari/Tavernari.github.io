@@ -10,6 +10,10 @@
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bungee Hairline&display=swap">
 
+<div style="display: flex; justify-content: center;">
+  <img src="./icon.webp" style="height: 200px;" />
+</div>
+
 ## Streamline Your Swift Code with DIContainer Swift: The Lightweight Dependency Injection Container You Can't Live Without
 
 Dependency injection is a design pattern that helps you manage the dependencies between objects in your code. By injecting dependencies as parameters instead of creating them directly, you can make your code more modular and easier to test. However, managing dependencies manually can quickly become a headache, especially as your codebase grows. That's where a dependency injection container comes in.
